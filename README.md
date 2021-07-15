@@ -1,7 +1,8 @@
 ### 👋 Hi, I’m @SeongBumKim
 
 
-I will always face challenges to get my own driving force. I am never afraid of fail. Keep going until my legs broke.
+I will always face challenges to get my own driving force. 
+I am never afraid of fail. Keep going until my legs broke.
 
 
 19.02 graduted Dongguk University
