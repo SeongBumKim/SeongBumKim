@@ -8,11 +8,9 @@ I am never afraid of fail. Keep going until my legs broke.
 19.02 graduted Dongguk University<br>
 21.06 served as first Lieutenant
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Cloud
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--
+- 👀 I’m interested in Designing Architecture
+- 🌱 I’m currently learning Cloud, Python, html/css/js, react, django
+- 📫 How to reach me >>> seongbum9@gmail.com
 
 <!---
 SeongBumKim/SeongBumKim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
